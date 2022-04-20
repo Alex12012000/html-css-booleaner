@@ -67,4 +67,27 @@ h1{
 .list-container {
     margin-left: 15px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
+
+/* Tabella */
+
+.table-container {
+    margin: auto;
+    border-collapse: collapse;
+    text-align: left;
+    
+}
+
+.table-head {
+    color: white;
+    background-color: #20a9e5;
+}
+
+.big-cell{
+    width: 50%;
+}
+
+.table-body{
+    background-color: #b1e5f2;
+ }
