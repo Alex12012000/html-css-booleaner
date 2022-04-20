@@ -28,7 +28,7 @@ h1{
     margin-top: 20px;
 }
 
-.container {
+.main-container {
     width: 99%;
     margin: auto;
 
@@ -91,3 +91,9 @@ h1{
 .table-body{
     background-color: #b1e5f2;
  }
+
+ /* Second Text Area */
+
+.second-textarea {
+    margin-top: 20px;
+}
