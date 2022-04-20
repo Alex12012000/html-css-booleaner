@@ -70,6 +70,10 @@ h1{
     margin-bottom: 20px;
 }
 
+.highlighted-text {
+    background-color: yellow;
+}
+
 /* Tabella */
 
 .table-container {
@@ -97,3 +101,39 @@ h1{
 .second-textarea {
     margin-top: 20px;
 }
+
+/* Footer */
+
+h4 {
+    color: grey;
+    margin-top: 20px;
+}
+
+.first-img {
+    margin-top: 20px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+}
+
+.second-img {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+
+}
+
+.text-image {
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
